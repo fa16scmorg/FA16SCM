@@ -6,3 +6,4 @@ GFA16SCM74G
 
 Last Name to be Added
 
+AFA16SCM24G
