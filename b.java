@@ -4,4 +4,5 @@ BFA16SCM46W
 BFA16SCM64P
 
 Last Name to be Added
+SFA16SCM16B
 
