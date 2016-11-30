@@ -5,3 +5,4 @@ XFA16SCM28Y
 
 Last Name to be added
 
+LFA16SCM80X
