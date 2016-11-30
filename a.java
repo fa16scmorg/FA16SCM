@@ -16,7 +16,7 @@ AFA16SCM76G
 AFA16SCM79J
 AFA16SCM89R
 AFA16SCM98S
-AFA16SCM67A
+AFA16SCM67A -> Incorrect position to be added
 
 Last Name to be Added
 
