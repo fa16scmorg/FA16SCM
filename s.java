@@ -15,6 +15,7 @@ SFA16SCM77K
 SFA16SCM84N
 SFA16SCM84Z
 NFA16SCM92S -> Incorrect position
+NFA16SCM33S -> Incorrect position
 
 Last Name to be added
 
